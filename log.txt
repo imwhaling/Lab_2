@@ -1,0 +1,17 @@
+commit f116ed887ef31d9b5b0a1a33dbaf40e3112760bb
+Author: Elizabeth Rezente <emrezente@ucdavis.edu>
+Date:   Thu Apr 1 22:54:07 2021 +0000
+
+    Added my plans
+
+commit 8adc17fafbd12e88693ede1c23d338eeb191ac6c
+Author: Ian <imwhaling@ucdavis.edu>
+Date:   Thu Apr 1 22:47:34 2021 +0000
+
+            new file:   plans.txt
+
+commit b18cc00e7c7a27cb347d1edeba3c4b3cbc041daa
+Author: imwhaling <81781008+imwhaling@users.noreply.github.com>
+Date:   Thu Apr 1 15:30:07 2021 -0700
+
+    Initial commit
